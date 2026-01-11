@@ -1,10 +1,10 @@
 # 🚀 Image Enhancer  
 **Enhance and upscale your images with AI in just seconds!**
 
-🌐 **Live Demo:** [image-enhancer-virid.vercel.app](https://ienhancers.vercel.app/)
+🌐 **Live Demo:** [image-enhancer](https://ienhancers.vercel.app/)
 
 AI Image Enhancer UI <!-- Replace with hosted version of your screenshot -->
-![Screenshot 2025-04-05 212550](https://github.com/user-attachments/assets/08ecfb89-dcdf-43b8-a04d-8d13406d911f)
+![Screenshot 2025-04-05 212550](https://myimgs.org/storage/images/15391/download.png)
 
 ---
 
