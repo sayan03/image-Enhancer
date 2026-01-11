@@ -37,8 +37,8 @@ AI Image Enhancer UI <!-- Replace with hosted version of your screenshot -->
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/your-username/AI-Powered-Image-Enhancer.git
-cd AI-Powered-Image-Enhancer
+git clone https://github.com/sayan03/image-Enhancer.git
+cd image-Enhancer
 npm install
 ```
 
